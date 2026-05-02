@@ -23,4 +23,7 @@ digital signal processing techniques.
 - Clean SwiftUI architecture for audio apps
 
 ## Screenshots
-![KeyTempo UI](keytempo.png)
+
+<p align="center">
+  <img src="./keytempo.png" width="220"/>
+</p>
